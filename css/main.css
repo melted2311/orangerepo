@@ -1,0 +1,107 @@
+html body {
+	background-color: #FAFAFA;
+	
+	display: block;
+}
+nav {
+	background-color: #FE7E00;
+	border-bottom: #F6C695;
+	padding: 10px 0px 5px; 
+	height: 80px;
+	
+}
+nav img {
+	width: 45%;
+}
+nav ul {
+	float: right;
+}
+nav li {
+	display: inline-block;
+	padding: 15px 20px;
+}
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+section {
+	height: 80%;
+	margin: 0 auto;
+	background-color: #FAFAFA;
+}
+section form {
+	float: right;
+	padding: 15px;
+	margin: 2% 10% 7%;
+	background-color: #EEE;
+}
+.fa {
+	display: inline-block;
+	font-size: inherit;
+	text-rendering: auto;
+	font: normal normal normal 14px/1 FontAwesome;
+}
+form input {
+	border: none;
+	background-color: transparent;
+	float: right;
+}
+form i {
+	float: right;
+	color: #000;
+}
+section div {
+	float: left;
+	width: 49.99999%;
+	
+}
+section > div > img {
+	width: 90%;
+	margin-left: 5%;
+	
+}
+.orange {
+	color: #D08145;
+}
+.web, .app {
+	color: #8CCBC1;
+}
+
+h1 {
+	font-size: 45px;
+	color: #F8A056;
+	padding: 0px;
+	display: block;
+}
+div button {
+	float: center;
+	padding: 15px 32px;
+	margin: 52px 29px;
+	font-size: 16px;
+	cursor: pointer;
+	text-decoration: none;
+}
+.study {
+	background-color: #79CBC8;
+}
+.quote {
+	background-color: #FE7E00;
+}
+footer {
+	background-color: #7ACCC8;
+	height: 80px;
+	position: relative;
+	margin-top: 45% 
+}
+
+
+
+
+
+
+
+
+
+
+
+
